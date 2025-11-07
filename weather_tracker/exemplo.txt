@@ -1,0 +1,11 @@
+🌡️ CONTROLE DE TEMPERATURAS DIÁRIAS 🌡️
+1 - Adicionar registro
+2 - Listar registros
+3 - Calcular médias semanais
+4 - Mostrar extremos (quente/frio)
+5 - Sair
+Escolha uma opção: 1
+Dia: Segunda
+Temperatura máxima: 32
+Temperatura mínima: 20
+✅ Registro de Segunda adicionado com sucesso!
