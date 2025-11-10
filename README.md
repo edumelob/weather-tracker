@@ -18,9 +18,3 @@ Ideal para iniciantes que querem mostrar organização e boas práticas no GitHu
 - Python 3+
 - `collections.namedtuple`
 
----
-
-##  Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/weather_tracker.git
